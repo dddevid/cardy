@@ -1,1 +1,38 @@
-
+[
+  {
+    "id": "1",
+    "name": "Penny Market",
+    "logo": "https://github.com/dddevid/cardy/blob/main/logos/Penny-Logo.svg.png?raw=true",
+    "category": "supermercato"
+  },
+  {
+    "id": "2",
+    "name": "Carrefour",
+    "logo": "https://upload.wikimedia.org/wikipedia/it/2/2a/Carrefour_nuovo_logo.png",
+    "category": "supermercato"
+  },
+  {
+    "id": "3",
+    "name": "Conad",
+    "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/0/04/Conad-Logo-1-.svg/1920px-Conad-Logo-1-.svg.png",
+    "category": "supermercato"
+  },
+  {
+    "id": "4",
+    "name": "Decathlon",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Decathlon_Logo24.svg/1200px-Decathlon_Logo24.svg.png",
+    "category": "sport"
+  },
+  {
+    "id": "5",
+    "name": "Esselunga",
+    "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a4/Esselunga_logo.svg/2560px-Esselunga_logo.svg.png",
+    "category": "supermercato"
+  },
+  {
+    "id": "6",
+    "name": "IKEA",
+    "logo": "https://github.com/dddevid/cardy/blob/main/logos/IKEA-Logo.wine.png?raw=true",
+    "category": "arredamento"
+  }
+]
